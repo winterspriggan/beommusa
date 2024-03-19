@@ -1,0 +1,10 @@
+server:
+  port: 40040
+
+spring:
+  application:
+    name: bemmuWeb
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/beommu
+    username: root
+    password: jin951753
