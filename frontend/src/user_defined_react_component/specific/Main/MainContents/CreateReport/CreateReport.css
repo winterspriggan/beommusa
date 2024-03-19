@@ -1,0 +1,14 @@
+.create_report {
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    padding: 80px 80px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 100%;
+}
+
+button {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
